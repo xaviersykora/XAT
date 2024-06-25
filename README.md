@@ -22,7 +22,17 @@ Executable Requirements:
 Visual C++ Redistributable for Visual Studio 2015
 https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
+For Python/Cross-Platform Users:
+(not required if using compiled exe)
 
+Built on Python 3.12.4
+
+Requires:
+tkinter (pip install as tk)
+keyboard
+pynput
+
+(I think everything else is included in 3.12.4)
 
 
 Unlicensed commercial use of this software is strictly prohibited. For license inquiries, please reach out to xaviersykora@gmail.com with "XAT License" in the subject line.
