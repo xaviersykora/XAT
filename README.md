@@ -35,4 +35,9 @@ pynput
 (I think everything else is included in 3.12.4)
 
 
+DISCLAIMER:
+
+The program asks for admin permissions because I wanted to have admin abilities when automating my own tasks. If you really care and think I'm up to funny business, use the Python script, compile an exe yourself with the script, or edit the manifest with Resource Hacker and skip the administrator ask. Executable with admin ask is just for convenience (in my world at least).
+
+
 Unlicensed commercial use of this software is strictly prohibited. For license inquiries, please reach out to xaviersykora@gmail.com with "XAT License" in the subject line.
