@@ -1,11 +1,10 @@
 # XAT
-"X-treme Automation Tool" - a set of tools to enable everyday users to automate complex or repetitive tasks. 
+
+
+"XTREME AUTOMATION TOOL" - a set of tools to enable everyday users to automate complex or repetitive tasks. 
 The project was built with the goal of having minimal impact to the system overall, such that it would not impact performance or power measurement in a testing use case.
-(my name starts with an X forgive me for the lame name, it also kinda worked for the whole "cat" gimmick I got going on)
 
-![icon](https://github.com/xaviersykora/XAT/assets/127653784/cbfbc7b8-c92f-4eb4-9388-ea3245660313)
-
-
+![tiny](https://github.com/xaviersykora/XAT/assets/127653784/936b048b-09b5-4acb-9636-bc34552d0f73)
 
 There are two tools that work in tandem:
 
